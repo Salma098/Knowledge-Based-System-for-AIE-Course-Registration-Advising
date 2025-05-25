@@ -1,4 +1,4 @@
-description
+description:
 The Knowledge-Based System (KBS) for AIE Course Registration Advising is designed to assist students in selecting courses for registration, tailored to the Artificial
 Intelligence Engineering track. The system analyzes a students semester, Cumulative Grade
 Point Average (CGPA), total credits passed, and course history (passed and failed courses)
